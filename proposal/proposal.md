@@ -12,3 +12,17 @@ I hypothesize that it is worth it to use a rideshare service if your trip is aro
 https://www.kaggle.com/datasets/jeffsinsel/nyc-fhvhv-data?select=fhvhv_tripdata_2019-12.parquet
 
 The data is only about rides that occurred in NYC, but I think it is still applicable to my situation since I live in the Bay Area.
+
+
+
+
+# Example Questions to Answer
+- Is there a linear relationship between trip distance and price?
+- What is the base price? Is it the same for all trips?
+- Does location affect price?
+- Which rideshare service has better rates (uber vs lyft)?
+
+
+# Focus on one of these questions:
+- If I wanted to go from A to C. Is it cheaper to book it at 2pm vs 5pm.
+- Is it more expensive to book a trip in one neighborhood vs the other?
